@@ -53,6 +53,7 @@
         </profile>
         <profile>
             <id>requirements-grade5</id>
+            
             <properties>
                 <requirements.fail-build-on-checkstyle-error>true</requirements.fail-build-on-checkstyle-error>
                 <requirements.jacoco-line-coverage>0.7</requirements.jacoco-line-coverage>
